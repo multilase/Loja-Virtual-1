@@ -23,11 +23,11 @@ textarea {
     max-width: 280px;
 }
 table, th, tr, td{
-    border: 2px solid #000000;
+    border: 2px solid #ff0000;
     padding: 5px;
-    background-color:#800000;
-    font-family: 'Arial Unicode MS';
-    color: #000000;
+    background-color:#000000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #b6ff00;
     align-content:flex-end;
     
 
